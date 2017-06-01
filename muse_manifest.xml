@@ -1,0 +1,91 @@
+<manifest alg="2" build="2017.0.2.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="PUSAT SUKAN REKREASI USM.COM" resolutions="1x" timestamp="1496270661242">
+  <folder name="css">
+    <file name="site_global.css" crc="443350757"/>
+    <file name="index.css" crc="58371178" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="phone>index:phone>menu-utama:phone>perkhidmatan:phone>pengenalan:phone>pentadbiran:phone>pentadbiran-2:phone>kemudahan-sukan:phone>waktu-kemudahan:phone>tempahan:phone>pinjaman-alatan-sukan:index"/>
+    <file name="museutils.js" crc="4232573551" ref="phone>index:phone>menu-utama:phone>perkhidmatan:phone>pengenalan:phone>pentadbiran:phone>pentadbiran-2:phone>kemudahan-sukan:phone>waktu-kemudahan:phone>tempahan:phone>pinjaman-alatan-sukan:index"/>
+    <file name="whatinput.js" crc="86476730" ref="phone>index:phone>menu-utama:phone>perkhidmatan:phone>pengenalan:phone>pentadbiran:phone>pentadbiran-2:phone>kemudahan-sukan:phone>waktu-kemudahan:phone>tempahan:phone>pinjaman-alatan-sukan:index"/>
+    <file name="museconfig.js" crc="4152223963" ref="phone>index:phone>menu-utama:phone>perkhidmatan:phone>pengenalan:phone>pentadbiran:phone>pentadbiran-2:phone>kemudahan-sukan:phone>waktu-kemudahan:phone>tempahan:phone>pinjaman-alatan-sukan:index"/>
+    <file name="jquery.watch.js" crc="3844535323" ref="phone>index:phone>menu-utama:phone>perkhidmatan:phone>pengenalan:phone>pentadbiran:phone>pentadbiran-2:phone>kemudahan-sukan:phone>waktu-kemudahan:phone>tempahan:phone>pinjaman-alatan-sukan:index"/>
+    <file name="require.js" crc="4234670167" ref="phone>index:phone>menu-utama:phone>perkhidmatan:phone>pengenalan:phone>pentadbiran:phone>pentadbiran-2:phone>kemudahan-sukan:phone>waktu-kemudahan:phone>tempahan:phone>pinjaman-alatan-sukan:index"/>
+  </folder>
+  <folder name="images">
+    <file name="pasted-svg-506x900.svg" crc="3916652231" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pasted svg 506x900_poster_.png" crc="337822293" ref="phone>index"/>
+    <file name="pasted-svg-716.svg" crc="263716038" seo="true" ref="phone>menu-utama">
+      <caption webpage="menu-utama" alt=""/>
+    </file>
+    <file name="pasted svg 716_poster_.png" crc="3791076299" ref="phone>menu-utama"/>
+    <file name="pasted-svg-7162.svg" crc="3781924423" seo="true" ref="phone>perkhidmatan">
+      <caption webpage="perkhidmatan" alt=""/>
+    </file>
+    <file name="pasted svg 716_poster_2.png" crc="429775230" ref="phone>perkhidmatan"/>
+    <file name="home-iconsvg.png" crc="418662776" seo="true" ref="phone>perkhidmatan:phone>pengenalan:phone>pentadbiran:phone>pentadbiran-2:phone>kemudahan-sukan:phone>waktu-kemudahan:phone>tempahan:phone>pinjaman-alatan-sukan">
+      <caption webpage="perkhidmatan" alt=""/>
+      <caption webpage="pentadbiran-2" alt=""/>
+      <caption webpage="pengenalan" alt=""/>
+      <caption webpage="waktu-kemudahan" alt=""/>
+      <caption webpage="kemudahan-sukan" alt=""/>
+      <caption webpage="pinjaman-alatan-sukan" alt=""/>
+      <caption webpage="tempahan" alt=""/>
+      <caption webpage="pentadbiran" alt=""/>
+    </file>
+    <file name="pasted-svg-765.svg" crc="4094805738" seo="true" ref="phone>pengenalan">
+      <caption webpage="pengenalan" alt=""/>
+    </file>
+    <file name="pasted svg 765_poster_.png" crc="3953439836" ref="phone>pengenalan"/>
+    <file name="pasted-svg-80768x903.svg" crc="399940169" seo="true" ref="phone>pentadbiran">
+      <caption webpage="pentadbiran" alt=""/>
+    </file>
+    <file name="pasted svg 80768x903_poster_.png" crc="3783622962" ref="phone>pentadbiran"/>
+    <file name="pasted-svg-506x9002.svg" crc="4205324766" seo="true" ref="phone>pentadbiran-2">
+      <caption webpage="pentadbiran-2" alt=""/>
+    </file>
+    <file name="pasted svg 506x900_poster_2.png" crc="4054706586" ref="phone>pentadbiran-2"/>
+    <file name="pasted-svg-714.svg" crc="4174895243" seo="true" ref="phone>kemudahan-sukan">
+      <caption webpage="kemudahan-sukan" alt=""/>
+    </file>
+    <file name="pasted svg 714_poster_.png" crc="485263103" ref="phone>kemudahan-sukan"/>
+    <file name="pasted-svg-7163.svg" crc="3892949434" seo="true" ref="phone>waktu-kemudahan">
+      <caption webpage="waktu-kemudahan" alt=""/>
+    </file>
+    <file name="pasted svg 716_poster_3.png" crc="4183941948" ref="phone>waktu-kemudahan"/>
+    <file name="pasted-svg-750.svg" crc="80438102" seo="true" ref="phone>tempahan">
+      <caption webpage="tempahan" alt=""/>
+    </file>
+    <file name="pasted svg 750_poster_.png" crc="438932561" ref="phone>tempahan"/>
+    <file name="pasted-svg-905.svg" crc="4192756843" seo="true" ref="phone>pinjaman-alatan-sukan">
+      <caption webpage="pinjaman-alatan-sukan" alt=""/>
+    </file>
+    <file name="pasted svg 905_poster_.png" crc="4264449597" ref="phone>pinjaman-alatan-sukan"/>
+  </folder>
+  <folder name="phone">
+    <folder name="css">
+      <file name="perkhidmatan.css" crc="216604820" ref="phone>perkhidmatan"/>
+      <file name="pentadbiran.css" crc="4151759917" ref="phone>pentadbiran"/>
+      <file name="tempahan.css" crc="17595103" ref="phone>tempahan"/>
+      <file name="index.css" crc="253776794" ref="phone>index"/>
+      <file name="menu-utama.css" crc="176492724" ref="phone>menu-utama"/>
+      <file name="pengenalan.css" crc="316976810" ref="phone>pengenalan"/>
+      <file name="kemudahan-sukan.css" crc="4124491875" ref="phone>kemudahan-sukan"/>
+      <file name="pinjaman-alatan-sukan.css" crc="3947062372" ref="phone>pinjaman-alatan-sukan"/>
+      <file name="waktu-kemudahan.css" crc="4123392413" ref="phone>waktu-kemudahan"/>
+      <file name="pentadbiran-2.css" crc="7075272" ref="phone>pentadbiran-2"/>
+    </folder>
+    <file name="index.html" crc="332500198" seo="true" mt="1496269505466" redirect="true"/>
+    <file name="menu-utama.html" crc="321773535" seo="true" mt="1496269586053" redirect="true"/>
+    <file name="perkhidmatan.html" crc="4175680665" seo="true" mt="1496269788094" redirect="true"/>
+    <file name="pengenalan.html" crc="4290015004" seo="true" mt="1496270617963" redirect="true"/>
+    <file name="pentadbiran.html" crc="3861651948" seo="true" mt="1496270013959" redirect="true"/>
+    <file name="pentadbiran-2.html" crc="3773492279" seo="true" mt="1496270023557" redirect="true"/>
+    <file name="kemudahan-sukan.html" crc="4144483085" seo="true" mt="1496270635886" redirect="true"/>
+    <file name="waktu-kemudahan.html" crc="3956868565" seo="true" mt="1496270074133" redirect="true"/>
+    <file name="tempahan.html" crc="3840470870" seo="true" mt="1496270084805" redirect="true"/>
+    <file name="pinjaman-alatan-sukan.html" crc="3782604787" seo="true" mt="1496270095687" redirect="true"/>
+  </folder>
+  <file name="index.html" crc="3819988845" seo="true" mt="1493174452017" redirect="false"/>
+</manifest>
